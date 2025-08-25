@@ -7,4 +7,12 @@ Repositório dedicado à exibição das minhas resoluções de problemas utiliza
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ana-leticia-cabral/leetcode_java/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ana-leticia-cabral/leetcode_java/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ana-leticia-cabral/leetcode_java/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
